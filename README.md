@@ -181,3 +181,6 @@ addEventListener(
     network: ws
     ws-path: /ray
 ```
+这是我面向新手写的教程
+【金山文档】 Heroku搭建教程
+https://kdocs.cn/l/cuGOXoYA2DwO
