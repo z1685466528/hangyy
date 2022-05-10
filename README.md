@@ -2,8 +2,10 @@
 是我面向新手写的教程
 【金山文档】 Heroku搭建教程
 https://kdocs.cn/l/cuGOXoYA2DwO
+昨天CF域名大量被国内DNS污染现在推出CloudFlare Workers 被墙解决方案
 
-
+【金山文档】 CloudFlare Workers 被墙解决方案
+https://kdocs.cn/l/cp7ppdbff6Yw
 [![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git)
 https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git
 
