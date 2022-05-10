@@ -3,6 +3,9 @@
 【金山文档】 Heroku搭建教程
 https://kdocs.cn/l/cuGOXoYA2DwO
 
+【金山文档】 申请Freenom域名的正确做法
+https://kdocs.cn/l/cmqB5kYnODzN
+
 昨天CF域名大量被国内DNS污染
 
 现在推出CloudFlare Workers 被墙解决方案
