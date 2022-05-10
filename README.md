@@ -1,4 +1,7 @@
 ## v2ray-heroku
+是我面向新手写的教程
+【金山文档】 Heroku搭建教程
+https://kdocs.cn/l/cuGOXoYA2DwO
 [![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git)
 https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git
 
@@ -181,6 +184,3 @@ addEventListener(
     network: ws
     ws-path: /ray
 ```
-这是我面向新手写的教程
-【金山文档】 Heroku搭建教程
-https://kdocs.cn/l/cuGOXoYA2DwO
